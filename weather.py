@@ -1,4 +1,8 @@
 #!/Library/Frameworks/Python.framework/Versions/3.7/bin/python3
+#
+# scrit to get weather from darksky.com 
+#
+
 import requests
 import json
 from configparser import ConfigParser
