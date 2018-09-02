@@ -1,4 +1,7 @@
 #!/Library/Frameworks/Python.framework/Versions/3.7/bin/python3
+# script to display weather on OSX desktop with Geektool
+#
+#
 import requests
 import json
 from configparser import ConfigParser
